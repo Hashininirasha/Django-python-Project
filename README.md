@@ -20,4 +20,4 @@ Password: 123
 ```
 npm install axios
 npm install react-bootstrap bootstrap
-npm start
+npm run start
