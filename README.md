@@ -1,4 +1,4 @@
-## Installations
+## Installations and Run project
 
 add django_scl_db to the phpMyAdmin
 
